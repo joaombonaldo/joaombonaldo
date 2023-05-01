@@ -38,6 +38,6 @@ Estudante de Engenharia de Software na PUCRS.
 
 ##
 
-![Snake animation] (https://github.com/joaombonaldo)
+![Snake animation] (https://github.com/joaombonaldo/joaombonaldo/blob/output/github-contribution/grid/snake.svg)
 
 
