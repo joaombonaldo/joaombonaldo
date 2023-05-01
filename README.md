@@ -36,6 +36,8 @@ Estudante de Engenharia de Software na PUCRS.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&layout=compact)](https://discord.com/invite/Jhony#7281)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joaombonaldo)
 
+##
 
+![Snake animation] (https://github.com/joaombonaldo)
 
 
