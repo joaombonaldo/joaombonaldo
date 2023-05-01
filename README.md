@@ -2,11 +2,6 @@
 
 Estudante de Engenharia de Software na PUCRS.
 
-Áreas de interesse: 
-- Neurociências
-- IA e Machine Learning
-- Informática aplicada a economia
-
 ##
 
 ### Estatísticas
