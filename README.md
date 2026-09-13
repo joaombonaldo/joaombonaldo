@@ -18,9 +18,7 @@
 
 ## About
 
-I build AI products end-to-end — from the LLM pipeline to the interface people actually use. Currently an AI Product Manager at Dell Technologies on the same tool I previously shipped as a Software Engineer, which means I still write the RAG pipelines, prompt systems, and fullstack features I now also plan for. Completing a Computer Software Engineering degree at PUCRS (2027). Outside of work I build my own things: an agentic personal-finance planner, an AI content-generation architecture, and a couple of side projects that go from idea to deployed product on my own.
-
-I'm looking for Product Engineer / Product Builder roles where owning outcomes means owning the code too.
+I build AI products end-to-end — from the LLM pipeline to the interface people actually use. Currently an AI Product Manager at Dell Technologies on the same tool I previously shipped as an AI Engineer, which means I still write the RAG pipelines, prompt systems, and fullstack features I now also plan for. I'm interested in hybrid roles that combine product thinking with AI and engineering depth.
 
 ---
 
