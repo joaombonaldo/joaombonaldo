@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Building+agentic+AI+products+end-to-end;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI" alt="typing intro" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Building+agentic+AI+products+end-to-end;FastAPI+%7C+RAG+%7C+LLMs+%7C+LangGraph" alt="typing intro" />
 </p>
 
 ---
@@ -47,3 +47,5 @@ I build AI products end-to-end — from the LLM pipeline to the interface people
 
 - LinkedIn: https://www.linkedin.com/in/joaombonaldo/
 - Email: joao.miguelbm02@gmail.com
+
+remove this from software engineer to product manager and now going to back to building
