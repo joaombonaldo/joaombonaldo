@@ -18,7 +18,7 @@
 
 ## About
 
-I build AI products end-to-end — from the LLM pipeline to the interface people actually use. Currently an AI Product Manager at Dell Technologies on the same tool I previously shipped as an AI Engineer, which means I still write the RAG pipelines, prompt systems, and fullstack features I now also plan for. I'm interested in hybrid roles that combine product thinking with AI and engineering depth.
+I build AI products end-to-end — from the LLM pipeline to the interface people actually use. Currently an AI Technical Product Manager 2 at Dell Technologies on the same tool I previously shipped as an AI Engineer, which means I still write the RAG pipelines, prompt systems, and fullstack features I now also plan for. I'm interested in hybrid roles that combine product thinking with AI and engineering depth.
 
 ---
 
