@@ -43,21 +43,6 @@ I build AI products end-to-end — from the LLM pipeline to the interface people
 
 ---
 
-## Building
-
-- **AI Financial Planner (LangGraph)** — a personal project to learn agent orchestration hands-on: categorizes monthly bank-statement expenses with a LangGraph agent graph, built from scratch to close a real skill gap rather than just read about it.
-- **AI-powered content generation platform (Dell)** — shipped it first as a Software Engineer (LLM integration, RAG, FastAPI + Angular + RabbitMQ, custom RBAC design), now own its roadmap and prompt architecture as PM — still hands-on in the code.
-- **Hackathon builds** — 1st place, Dell Hackathon 2024 (RAG-powered support assistant, FastAPI + Llama 3 + TF-IDF similarity search); 3rd place, Dell Hackathon 2025 (RAG product-recommendation engine with a simulated WhatsApp interface in React).
-- Earlier: co-founded and ran operations for an indie video-editing studio that produced content reaching 100M+ combined views.
-
----
-
-## Background, briefly
-
-Nearly three years at Dell: Tax Automation Intern → Software Engineer → AI Product Manager. I moved into product to see the full picture — stakeholder needs, roadmap tradeoffs, what actually moves usage (200% MAU growth on my current product) — but the itch to build never went away, and the line between "PM who understands the system" and "engineer who understands the user" keeps getting thinner in AI products anyway.
-
----
-
 ## Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/joaombonaldo/
