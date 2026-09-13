@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Building+agentic+AI+products+end-to-end;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI;From+Software+Engineer+to+AI+Product+Manager;Now+going+back+to+building+%E2%80%94+with+product+instincts" alt="typing intro" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Building+agentic+AI+products+end-to-end;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI" alt="typing intro" />
 </p>
 
 ---
