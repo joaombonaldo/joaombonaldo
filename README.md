@@ -47,5 +47,3 @@ I build AI products end-to-end — from the LLM pipeline to the interface people
 
 - LinkedIn: https://www.linkedin.com/in/joaombonaldo/
 - Email: joao.miguelbm02@gmail.com
-
-remove this from software engineer to product manager and now going to back to building
